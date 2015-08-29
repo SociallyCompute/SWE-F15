@@ -15,9 +15,11 @@ int main( void )
 	jbekccSentence1();    
 	printf("\n\n");
 	dhart94Sentence1();    
-	printf("\n\n");      
+	printf("\n\n");   
+	ampwd6Sentence1();
+	printf("\n\n");
 	    
-
+	ampwd6Sentence2();
 	dhart94Sentence2();     
 	jbekccSentence2();    
 	// DO NOT ADD AFTER THIS COMMENT
