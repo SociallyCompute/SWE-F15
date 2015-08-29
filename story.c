@@ -16,26 +16,19 @@ int main( void )
 	printf("\n\n");
 
 	dhart94Sentence1();    
-<<<<<<< HEAD
 	printf("\n\n");      
 	
 	jkdt2Sentence1();    
 	printf("\n\n");  
+		
+	ampwd6Sentence1();
+	printf("\n\n"); 
 	
-	ampwd6Sentence1();
-	printf("\n\n");
-
-=======
-	printf("\n\n");   
-	ampwd6Sentence1();
-	printf("\n\n");
-	    
-	ampwd6Sentence2();
->>>>>>> ampwd6
 	dhart94Sentence2();     
 	printf("\n\n");    
 	    
 	ampwd6Sentence2();
+	printf("\n\n"); 
 	
 	jkdt2Sentence2();   
 	printf("\n\n");
