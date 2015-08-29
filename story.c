@@ -21,10 +21,14 @@ int main( void )
 	jkdt2Sentence1();    
 	printf("\n\n");  
 	
+	ampwd6Sentence1();
+	printf("\n\n");
 
 	dhart94Sentence2();     
 	printf("\n\n");    
 	    
+	ampwd6Sentence2();
+	
 	jkdt2Sentence2();   
 	printf("\n\n");
 	
