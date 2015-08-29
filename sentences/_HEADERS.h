@@ -11,4 +11,7 @@ int jbekccSentence2();
 int dhart94Sentence1();
 int dhart94Sentence2();
 
+int jkdt2Sentence1();
+int jkdt2Sentence2();
+
 
