@@ -16,13 +16,13 @@ int main( void )
 	printf("\n\n");
 
 	dhart94Sentence1();    
-	printf("\n\n");  
-	
-	ampwd6Sentence1();
-	printf("\n\n");     
+	printf("\n\n");      
 	
 	jkdt2Sentence1();    
 	printf("\n\n");  
+		
+	ampwd6Sentence1();
+	printf("\n\n"); 
 	
 	dhart94Sentence2();     
 	printf("\n\n");    
