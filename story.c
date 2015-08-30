@@ -29,16 +29,22 @@ int main( void )
 
 	cwm262Sentence1();
 	printf("\n\n");
-    
+ 
+	essxpdSentence1();
+	printf("\n\n");
+   
 	dhart94Sentence2();
 	printf("\n\n");    
+	
+	essxpdSentence2();
+	printf("\n\n");
 	    
 	jkdt2Sentence2();   
 	printf("\n\n");
     
     	mdvy96Sentence2();
     	printf("\n\n");
-    
+
     jlhthdSentence2();
     printf("\n\n");
 
