@@ -22,9 +22,18 @@ int main( void )
 	printf("\n\n");  
 		
 	ampwd6Sentence1();
-	printf("\n\n"); 
-	
-	dhart94Sentence2();     
+	printf("\n\n");    
+
+    mdvy96Sentence1();
+   	printf("\n\n");
+    
+    jlhthdSentence1();
+    printf("\n\n");
+
+	cwm262Sentence1();
+	printf("\n\n");
+    
+	dhart94Sentence2();
 	printf("\n\n");    
 	    
 	ampwd6Sentence2();
@@ -32,8 +41,17 @@ int main( void )
 	
 	jkdt2Sentence2();   
 	printf("\n\n");
+    
+    mdvy96Sentence2();
+    printf("\n\n");
+    
+    jlhthdSentence2();
+    printf("\n\n");
+
+	cwm262Sentence2();
+	printf("\n\n");
 	
-	jbekccSentence2();    
+	jbekccSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

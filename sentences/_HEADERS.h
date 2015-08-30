@@ -17,5 +17,14 @@ int ampwd6Sentence2();
 int jkdt2Sentence1();
 int jkdt2Sentence2();
 
+int mdvy96Sentence1();
+int mdvy96Sentence2();
+
+int cwm262Sentence1();
+int cwm262Sentence2();
+
+int jlhthdSentence1();
+int jlhthdSentence2();
+
 
 
