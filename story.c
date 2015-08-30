@@ -23,9 +23,6 @@ int main( void )
 
     	mdvy96Sentence1();
     	printf("\n\n");
-    
-    jlhthdSentence1();
-    printf("\n\n");
 
 	cwm262Sentence1();
 	printf("\n\n");
@@ -38,9 +35,6 @@ int main( void )
     
     	mdvy96Sentence2();
     	printf("\n\n");
-    
-    jlhthdSentence2();
-    printf("\n\n");
 
 	cwm262Sentence2();
 	printf("\n\n");
