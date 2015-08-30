@@ -53,11 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o ampwd6.o
-=======
 story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o
->>>>>>> e7db2d7a1e6e0d6745ca348c09a6203623219805
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -74,9 +70,6 @@ jbekcc.o: sentences/jbekcc.c
 	$(CC) -c $<
 
 dhart94.o: sentences/dhart94.c
-	$(CC) -c $<
-	
-ampwd6.o: sentences/ampwd6.c
 	$(CC) -c $<
 	
 jkdt2.o: sentences/jkdt2.c
