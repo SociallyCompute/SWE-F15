@@ -83,3 +83,6 @@ cwm262.o: sentences/cwm262.c
     
 jlhthd.o: sentences/jlhthd.c
 	$(CC) -c $<
+	
+ampwd6.o: sentences/ampwd6.c
+	$(CC) -c $<
