@@ -20,4 +20,7 @@ int mdvy96Sentence2();
 int cwm262Sentence1();
 int cwm262Sentence2();
 
+int jlhthdSentence1();
+int jlhthdSentence2();
+
 
