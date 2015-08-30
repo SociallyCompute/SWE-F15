@@ -81,3 +81,6 @@ mdvy96.o: sentences/mdvy96.c
 
 cwm262.o: sentences/cwm262.c
 	$(CC) -c $<
+    
+jlhthd.o: sentences/jlhthd.c
+	$(CC) -c $<
