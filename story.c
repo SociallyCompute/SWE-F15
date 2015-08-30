@@ -21,8 +21,11 @@ int main( void )
 	jkdt2Sentence1();    
 	printf("\n\n");  
 
-    mdvy96Sentence1();
-    printf("\n\n");
+    	mdvy96Sentence1();
+    	printf("\n\n");
+
+	cwm262Sentence1();
+	printf("\n\n");
     
 	dhart94Sentence2();
 	printf("\n\n");    
@@ -30,8 +33,11 @@ int main( void )
 	jkdt2Sentence2();   
 	printf("\n\n");
     
-    mdvy96Sentence2();
-    printf("\n\n");
+    	mdvy96Sentence2();
+    	printf("\n\n");
+
+	cwm262Sentence2();
+	printf("\n\n");
 	
 	jbekccSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
