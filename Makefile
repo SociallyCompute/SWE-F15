@@ -90,6 +90,9 @@ essxpd.o: sentences/essxpd.c
 ampwd6.o: sentences/ampwd6.c
 	$(CC) -c $<
 	
+frielj.o: sentences/frielj.c
+	$(CC) -c $<
+	
 tmb4qf.o: sentences/tmb4qf.c
 	$(CC) -c $<
 	
