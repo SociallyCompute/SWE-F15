@@ -32,3 +32,6 @@ int jlhthdSentence2();
 
 int essxpdSentence1();
 int essxpdSentence2();
+
+int frieljSentence1();
+int frieljSentence2();
