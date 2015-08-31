@@ -96,7 +96,8 @@ frielj.o: sentences/frielj.c
 tmb4qf.o: sentences/tmb4qf.c
 	$(CC) -c $<
 	
-frielj.o: sentences/frielj.c
+zrhth5.o: sentences/zrhth5.c
 	$(CC) -c $<
+	
 skh6yf.o: sentences/skh6yf.c
 	$(CC) -c $<
