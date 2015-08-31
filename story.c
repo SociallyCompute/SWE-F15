@@ -37,7 +37,8 @@ int main( void )
 	printf("\n\n");
 
 	skh6yfSentence1();
-	printf("\n\n");	
+	printf("\n\n");
+	
 	tmb4qfSentence1();
 	printf("\n\n"); 
 	
