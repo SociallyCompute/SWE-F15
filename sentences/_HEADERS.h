@@ -35,3 +35,6 @@ int essxpdSentence2();
 
 int frieljSentence1();
 int frieljSentence2();
+
+int skh6yfSentence1();
+int skh6yfSentence2();
