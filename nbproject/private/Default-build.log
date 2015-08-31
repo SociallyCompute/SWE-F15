@@ -1,0 +1,12 @@
+gcc -c story.c
+gcc -c sentences/bpbkt7.c
+gcc -c sentences/jbekcc.c
+gcc -c sentences/dhart94.c
+gcc -c sentences/jkdt2.c
+gcc -c sentences/mdvy96.c
+gcc -c sentences/cwm262.c
+gcc -c sentences/jlhthd.c
+gcc -c sentences/essxpd.c
+gcc -c sentences/ampwd6.c
+gcc -c sentences/tmb4qf.c
+gcc -o story story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o
