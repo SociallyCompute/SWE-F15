@@ -26,3 +26,6 @@ int cwm262Sentence2();
 
 int jlhthdSentence1();
 int jlhthdSentence2();
+
+int essxpdSentence1();
+int essxpdSentence2();

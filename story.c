@@ -32,9 +32,15 @@ int main( void )
 
 	cwm262Sentence1();
 	printf("\n\n");
-    
+ 
+	essxpdSentence1();
+	printf("\n\n");
+   
 	dhart94Sentence2();
 	printf("\n\n");    
+	
+	essxpdSentence2();
+	printf("\n\n");
 	    
 	ampwd6Sentence2();
 	printf("\n\n"); 
