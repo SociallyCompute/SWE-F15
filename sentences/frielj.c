@@ -9,3 +9,4 @@ int frieljSentence2()
   printf("While singing Renegade by Styx.\n");
   return 1;
 }
+
