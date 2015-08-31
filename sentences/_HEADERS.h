@@ -14,6 +14,9 @@ int dhart94Sentence2();
 int ampwd6Sentence1();
 int ampwd6Sentence2();
 
+int tmb4qfSentence1();
+int tmb4qfSentence2();
+
 int mdvy96Sentence1();
 int mdvy96Sentence2();
 
