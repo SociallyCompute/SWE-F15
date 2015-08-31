@@ -19,11 +19,15 @@ int main( void )
 	printf("\n\n");      
 	
 	jkdt2Sentence1();    
-	printf("\n\n");  
+	printf("\n\n");
+
+	jrf5x8Sentence1();
+	printf("\n");  
 		
 	ampwd6Sentence1();
-	printf("\n\n"); 
+	printf("\n\n");
 
+	
     mdvy96Sentence1();
    	printf("\n\n");
     
@@ -37,13 +41,16 @@ int main( void )
 	printf("\n\n");
 	
 	tmb4qfSentence1();
-	printf("\n\n"); 
-   
+	printf("\n\n");
+
 	dhart94Sentence2();
 	printf("\n\n");    
 	
 	essxpdSentence2();
 	printf("\n\n");
+
+	jrf5x8Sentence2();
+	printf("\n");
 	    
 	ampwd6Sentence2();
 	printf("\n\n"); 
