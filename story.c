@@ -39,20 +39,24 @@ int main( void )
 	skh6yfSentence1();
 	printf("\n\n");
 	
+	pswnr9Sentence1();
+	printf("\n\n");
+	
 	tmb4qfSentence1();
+	printf("\n\n");
+
+	mjwpq6Sentence1();
 	printf("\n\n"); 
 	
 	frieljSentence1();
 	printf("\n\n");
 
-	zrhth5Sentence1();
-        printf("\n\n");
-
     jrocncSentence1();
         printf("\n\n");
+	
+	ccyd6cSentence1();
+	printf("\n\n");
         
-        pswnr9Sentence1();
-        printf("\n\n");
    
 	dhart94Sentence2();
 	printf("\n\n");    
@@ -86,17 +90,21 @@ int main( void )
 	frieljSentence2();
 	printf("\n\n");
 
-	zrhth5Sentence2();
-        printf("\n\n");
-
     jrocncSentence2();
         printf("\n\n");
 	
 	pswnr9Sentence2();
 	printf("\n\n");
 
+<<<<<<< HEAD
 	mjk8v2Sent1();
 	mjk8v2Sent2();
+=======
+	mjwpq6Sentence2();
+	printf("\n\n");
+	
+	ccyd6cSentence2();
+>>>>>>> 8d2e7dbda85c01d4235c51e328029428f0aef054
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
