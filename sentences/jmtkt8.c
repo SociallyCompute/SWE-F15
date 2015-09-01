@@ -8,6 +8,6 @@ int jmtkt8Sentence1()
 
 int jmtkt8Sentence2()
 {
-  printf("And dropped the hottest mixtape of 2015. \n");
+  printf("And dropped the hottest mixtape of 2015! \n");
   return 1;
 }
