@@ -41,6 +41,9 @@ int main( void )
 	
 	pswnr9Sentence1();
 	printf("\n\n");
+
+	njmnbbSentence1();
+	printf("\n\n");
 	
 	tmb4qfSentence1();
 	printf("\n\n");
@@ -73,6 +76,9 @@ int main( void )
         printf("\n\n");
 	essxpdSentence2();
 	printf("\n\n");
+
+	njmnbbSentence2();
+	printf("\n\n");
 	    
 	ampwd6Sentence2();
 	printf("\n\n"); 
@@ -96,7 +102,7 @@ int main( void )
 	printf("\n\n");
     
     jmtkt8Sentence1();
-    printf("\n")
+    printf("\n");
 	
 	frieljSentence2();
 	printf("\n\n");
