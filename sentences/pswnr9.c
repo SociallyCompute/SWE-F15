@@ -1,14 +1,13 @@
 //pswnr9.c
-//Piper Williams 8/31/15
 
 #include <stdio.h>
 
 int pswnr9Sentence1(){
-	printf("He decided that he was only going to eat half of the big macs and give the other half to his dog.\n");
+	printf("\nHe decided that he was only going to eat half of the big macs and give the other half to his dog.\n");
 	return 1;
 }
 
 int pswnr9Sentence2(){
-	printf("Who doesnt like to go bowling?\n");
+	printf("\nWho doesnt like to go bowling?\n");
 	return 1;
 }
