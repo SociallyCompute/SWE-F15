@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrf5x8.o
+story: story.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o jrf5x8.o
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -70,6 +70,9 @@ jbekcc.o: sentences/jbekcc.c
 	$(CC) -c $<
 
 dhart94.o: sentences/dhart94.c
+	$(CC) -c $<
+
+cwsvf2.o: sentences/cwsvf2.c
 	$(CC) -c $<
 	
 jkdt2.o: sentences/jkdt2.c
@@ -102,5 +105,25 @@ jrf5x8.o: sentences/jrf5x8.c
 frielj.o: sentences/frielj.c
 	$(CC) -c $<
 
+
 skh6yf.o: sentences/skh6yf.c
+	$(CC) -c $<
+
+jrocnc.o: sentences/jrocnc.c
+	$(CC) -c $<
+
+mjk8v2.o: sentences/mjk8v2.c
+	$(CC) -c $<
+
+pswnr9.o: sentences/pswnr9.c
+	$(CC) -c $<
+
+mjwpq6.o: sentences/mjwpq6.c
+	$(CC) -c $<
+
+ccyd6c.o: sentences/ccyd6c.c
+	$(CC) -c $<
+rcn6f4.o: sentences/rcn6f4.c
+	$(CC) -c $<
+jmtkt8.o: sentences/jmtkt8.c
 	$(CC) -c $<
