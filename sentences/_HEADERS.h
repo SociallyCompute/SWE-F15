@@ -44,3 +44,6 @@ int skh6yfSentence2();
 
 int jrocncSentence1();
 int jrocncSentence2();
+
+int pswnr9Sentence1();
+int pswnr9Sentence2();
