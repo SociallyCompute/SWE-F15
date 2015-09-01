@@ -9,6 +9,6 @@ int pswnr9Sentence1(){
 }
 
 int pswnr9Sentence2(){
-	printf("");
+	printf("Who doesnt like to go bowling?\n");
 	return 1;
 }
