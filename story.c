@@ -53,6 +53,9 @@ int main( void )
 
     jrocncSentence1();
         printf("\n\n");
+	
+	ccyd6cSentence1();
+	printf("\n\n");
         
    
 	dhart94Sentence2();
@@ -94,6 +97,9 @@ int main( void )
 	printf("\n\n");
 
 	mjwpq6Sentence2();
+	printf("\n\n");
+	
+	ccyd6cSentence2();
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT

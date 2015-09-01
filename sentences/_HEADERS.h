@@ -48,3 +48,6 @@ int pswnr9Sentence2();
 int mjwpq6Sentence1();
 int mjwpq6Sentence2();
 
+int ccyd6cSentence1();
+int ccyd6cSentence2();
+
