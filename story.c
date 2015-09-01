@@ -56,7 +56,9 @@ int main( void )
 	
 	ccyd6cSentence1();
 	printf("\n\n");
-        
+ 
+        rcn6f4Sentence1();
+        printf("\n\n");
    
 	dhart94Sentence2();
 	printf("\n\n");    
@@ -102,7 +104,10 @@ int main( void )
 
 	mjwpq6Sentence2();
 	printf("\n\n");
-	
+
+        rcn6f4Sentence2();
+	printf("\n\n");
+
 	ccyd6cSentence2();
 	printf("\n\n");
 

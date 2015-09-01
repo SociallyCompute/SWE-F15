@@ -1,4 +1,4 @@
-# include <stdio.h>
+#include <stdio.h>
 int ampwd6Sentence1()
 {
   printf("\nHe wanted to battle with a Samari \n");

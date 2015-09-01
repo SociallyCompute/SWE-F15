@@ -54,4 +54,5 @@ int mjwpq6Sentence2();
 int ccyd6cSentence1();
 int ccyd6cSentence2();
 
-
+int rcn6f4Sentence1();
+int rcn6f4Sentence2();
