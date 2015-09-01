@@ -94,6 +94,11 @@ int main( void )
 	
 	pswnr9Sentence2();
 	printf("\n\n");
+
+	mjk8v2Sent1();
+	mjk8v2Sent2();
+	printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
