@@ -39,6 +39,9 @@ int main( void )
 	skh6yfSentence1();
 	printf("\n\n");
 	
+	pswnr9Sentence1();
+	printf("\n\n");
+	
 	tmb4qfSentence1();
 	printf("\n\n"); 
 	
@@ -51,8 +54,6 @@ int main( void )
     jrocncSentence1();
         printf("\n\n");
         
-        pswnr9Sentence1();
-        printf("\n\n");
    
 	dhart94Sentence2();
 	printf("\n\n");    
