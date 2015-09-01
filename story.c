@@ -50,6 +50,9 @@ int main( void )
 
     jrocncSentence1();
         printf("\n\n");
+        
+        pswnr9Sentence1();
+        printf("\n\n");
    
 	dhart94Sentence2();
 	printf("\n\n");    
@@ -88,7 +91,9 @@ int main( void )
 
     jrocncSentence2();
         printf("\n\n");
-
+	
+	pswnr9Sentence2();
+	printf("\n\n");
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
