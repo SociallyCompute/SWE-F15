@@ -45,14 +45,13 @@ int jrocncSentence2();
 int pswnr9Sentence1();
 int pswnr9Sentence2();
 
-<<<<<<< HEAD
 int mjk8v2Sent1();
 int mjk8v2Sent2();
-=======
+
 int mjwpq6Sentence1();
 int mjwpq6Sentence2();
 
 int ccyd6cSentence1();
 int ccyd6cSentence2();
->>>>>>> 8d2e7dbda85c01d4235c51e328029428f0aef054
+
 

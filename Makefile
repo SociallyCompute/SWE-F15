@@ -53,11 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o zrhth5.o frielj.o skh6yf.o jrocnc.o mjk8v2.o
-=======
-story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o
->>>>>>> 8d2e7dbda85c01d4235c51e328029428f0aef054
+story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -106,16 +102,15 @@ skh6yf.o: sentences/skh6yf.c
 jrocnc.o: sentences/jrocnc.c
 	$(CC) -c $<
 
-<<<<<<< HEAD
 mjk8v2.o: sentences/mjk8v2.c
 	$(CC) -c $<
-=======
+
 pswnr9.o: sentences/pswnr9.c
 	$(CC) -c $<
-	
+
 mjwpq6.o: sentences/mjwpq6.c
 	$(CC) -c $<
+
 ccyd6c.o: sentences/ccyd6c.c
 	$(CC) -c $<
 
->>>>>>> 8d2e7dbda85c01d4235c51e328029428f0aef054

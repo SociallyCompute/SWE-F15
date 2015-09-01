@@ -96,15 +96,14 @@ int main( void )
 	pswnr9Sentence2();
 	printf("\n\n");
 
-<<<<<<< HEAD
 	mjk8v2Sent1();
 	mjk8v2Sent2();
-=======
+	printf("\n\n");
+
 	mjwpq6Sentence2();
 	printf("\n\n");
 	
 	ccyd6cSentence2();
->>>>>>> 8d2e7dbda85c01d4235c51e328029428f0aef054
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
