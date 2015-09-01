@@ -59,3 +59,6 @@ int ccyd6cSentence2();
 
 int rcn6f4Sentence1();
 int rcn6f4Sentence2();
+
+int jmtkt8Sentence1();
+int jmtkt8Sentence2();

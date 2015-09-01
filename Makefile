@@ -118,3 +118,5 @@ ccyd6c.o: sentences/ccyd6c.c
 	$(CC) -c $<
 rcn6f4.o: sentences/rcn6f4.c
 	$(CC) -c $<
+jmtkt8.o: sentences/jmtkt8.c
+	$(CC) -c $<
