@@ -69,3 +69,6 @@ int jmtkt8Sentence2();
 
 int njmnbbSentence1();
 int njmnbbSentence2();
+
+int anmg8Sentence1();
+int anmg8Sentence2();
