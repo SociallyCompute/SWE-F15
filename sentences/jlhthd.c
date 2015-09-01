@@ -3,12 +3,12 @@
 
 int jlhthdSentence1()
 {
-  printf("Once upon a time\n");
+  printf("He was soon set upon by reptoids!\n");
   return 1;
 }
 
 int jlhthdSentence2()
 {
-  printf("\nThe end. \n");
+  printf("Bigfoot taught him in the ways of the ninja.\n");
   return 1;
 }
