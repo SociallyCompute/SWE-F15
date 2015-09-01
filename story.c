@@ -58,7 +58,7 @@ int main( void )
 	printf("\n\n");
     
     jmtkt8Sentence2();
-    printf("\n\n");
+    printf("\n");
  
         rcn6f4Sentence1();
         printf("\n\n");
@@ -96,7 +96,7 @@ int main( void )
 	printf("\n\n");
     
     jmtkt8Sentence1();
-    printf("\n\n")
+    printf("\n")
 	
 	frieljSentence2();
 	printf("\n\n");
