@@ -96,7 +96,7 @@ int main( void )
 	printf("\n\n");
     
     jmtkt8Sentence1();
-    printf("\n\n")
+    printf("\n\n");
 	
 	frieljSentence2();
 	printf("\n\n");
@@ -108,6 +108,10 @@ int main( void )
 	printf("\n\n");
 
 	cwsvf2Sentence2();
+	printf("\n\n");
+	
+	mcbxx2Sentence1();
+	mcbxx2Sentence2();
 	printf("\n\n");
 
 	mjk8v2Sent1();
