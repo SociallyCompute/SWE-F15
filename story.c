@@ -48,9 +48,6 @@ int main( void )
 	frieljSentence1();
 	printf("\n\n");
 
-	zrhth5Sentence1();
-        printf("\n\n");
-
     jrocncSentence1();
         printf("\n\n");
         
@@ -86,9 +83,6 @@ int main( void )
 	
 	frieljSentence2();
 	printf("\n\n");
-
-	zrhth5Sentence2();
-        printf("\n\n");
 
     jrocncSentence2();
         printf("\n\n");
