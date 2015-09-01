@@ -36,9 +36,6 @@ int essxpdSentence2();
 int frieljSentence1();
 int frieljSentence2();
 
-int zrhth5Sentence1();
-int zrhth5Sentence2();
-
 int skh6yfSentence1();
 int skh6yfSentence2();
 
