@@ -47,6 +47,9 @@ int main( void )
 
 	zrhth5Sentence1();
         printf("\n\n");
+
+    jrocncSentence1();
+        printf("\n\n");
    
 	dhart94Sentence2();
 	printf("\n\n");    
@@ -81,6 +84,9 @@ int main( void )
 	printf("\n\n");
 
 	zrhth5Sentence2();
+        printf("\n\n");
+
+    jrocncSentence2();
         printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
