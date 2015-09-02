@@ -82,6 +82,9 @@ int main( void )
 	cwsvf2Sentence1();
 	printf("\n\n");
 
+	acbgf8Sentence1();
+	printf("\n\n");
+
 	dhart94Sentence2();
 	printf("\n\n");    
 	
@@ -151,6 +154,9 @@ int main( void )
 	printf("\n\n");
 
 	ccyd6cSentence2();
+	printf("\n\n");
+	
+	acbgf8Sentence2();
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
