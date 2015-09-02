@@ -72,3 +72,6 @@ int njmnbbSentence2();
 
 int anmg8Sentence1();
 int anmg8Sentence2();
+
+int mcbxx2Sentence1();
+int mcbxx2Sentence2();
