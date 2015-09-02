@@ -78,3 +78,6 @@ int mcbxx2Sentence2();
 
 int acbgf8Sentence1();
 int acbgf8Sentence2();
+
+int ajmhydSentence1();
+int ajmhydSentence2();
