@@ -23,7 +23,3 @@ int mjk8v2Sent3() {
 	printf("\nCol. Forbin retrives it, with the help of the famous Mockingbird, but then uses it for his own power.");
 	return 1;	
 }
-
-
-	return 1;
-}
