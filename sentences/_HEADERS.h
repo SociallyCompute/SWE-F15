@@ -75,3 +75,6 @@ int anmg8Sentence2();
 
 int mcbxx2Sentence1();
 int mcbxx2Sentence2();
+
+int acbgf8Sentence1();
+int acbgf8Sentence2();
