@@ -145,6 +145,7 @@ int main( void )
 
 	mjk8v2Sent1();
 	mjk8v2Sent2();
+	mjk8v2Sent3();
 	printf("\n\n");
 
 	mjwpq6Sentence2();
