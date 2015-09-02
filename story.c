@@ -69,6 +69,9 @@ int main( void )
 	
 	ccyd6cSentence1();
 	printf("\n\n");
+
+	ajmhydSentence1();
+	printf("\n");
     
     jmtkt8Sentence2();
     printf("\n");
@@ -163,6 +166,9 @@ int main( void )
 
 	crmmx2Sentence2();
 	printf("\n\n");
+
+	ajmhydSentence2();
+	printf("\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
