@@ -36,6 +36,10 @@ int jlhthdSentence2();
 int essxpdSentence1();
 int essxpdSentence2();
 
+
+int jrf5x8Sentence1();
+int jrf5x8Sentence2();
+
 int frieljSentence1();
 int frieljSentence2();
 
@@ -62,6 +66,12 @@ int rcn6f4Sentence2();
 
 int jmtkt8Sentence1();
 int jmtkt8Sentence2();
+
+int njmnbbSentence1();
+int njmnbbSentence2();
+
+int anmg8Sentence1();
+int anmg8Sentence2();
 
 int mcbxx2Sentence1();
 int mcbxx2Sentence2();
