@@ -1,4 +1,4 @@
-#import <stdio.h>
+#include <stdio.h>
 
 int njmnbbSentence1() {
 	printf("His ninja friend was named Big Tony and preferred canolis to Big Macs, but wasn't one to say no to free food.\n");
