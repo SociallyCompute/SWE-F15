@@ -102,6 +102,8 @@ int main( void )
 	
 	// acbgf8Sentence1();
 	// printf("\n\n");
+	cde9d5Sentence1();
+	printf("\n\n");
 
 	dhart94Sentence2();
 	printf("\n\n");    
@@ -199,7 +201,9 @@ int main( void )
 	printf("\n");
 	bsb62Sentence3();
 	printf("\n");
-
+	
+	cde9d5Sentence2();
+	printf("\n\n");
 	//kjbr3dSentence2();
 	//printf("\n\n");
 	// DO NOT ADD AFTER THIS COMMENT
