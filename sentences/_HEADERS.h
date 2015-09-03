@@ -98,6 +98,9 @@ int cde9d5Sentence2();
 int ajmhydSentence1();
 int ajmhydSentence2();
 
+int baab74Sentence1();
+int baab74Sentence2();
+
 //int jtr4bdSentence1();
 //int jtr4bdSentence2();
 //>>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
