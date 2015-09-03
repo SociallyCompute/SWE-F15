@@ -80,6 +80,9 @@ int mcbxx2Sentence2();
 int acbgf8Sentence1();
 int acbgf8Sentence2();
 
+int mbs9b7Sentence1();
+int mbs9b7Sentence2();
+
 int bsb62Sentence1();
 int bsb62Sentence2();
 int bsb62Sentence3();
