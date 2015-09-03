@@ -41,6 +41,9 @@ int main( void )
 
 	cwm262Sentence1();
 	printf("\n\n");
+	
+	ajsvt7Sentence1();
+	printf("\n\n");
  
 	essxpdSentence1();
 	printf("\n\n");
@@ -138,6 +141,9 @@ int main( void )
     printf("\n");
 
 	frieljSentence2();
+	printf("\n\n");
+	
+	ajsvt7Sentence2();
 	printf("\n\n");
 
     jrocncSentence2();
