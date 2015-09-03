@@ -198,8 +198,16 @@ int main( void )
 	
 	cde9d5Sentence2();
 	printf("\n\n");
+
 	//kjbr3dSentence2();
 	//printf("\n\n");
+
+	djs6g7Sentence1();
+	printf("\n\n");
+
+	djs6g7Sentence2();
+        printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
