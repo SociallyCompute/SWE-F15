@@ -177,5 +177,6 @@ ajsvt7.o: sentences/ajsvt7.c
 dmlcn6.o: sentences/dmlcn6.c
 	$(CC) -c $<
 
+
 cwcf34.o: sentences/cwcf34.c
 	$(CC) -c $<
