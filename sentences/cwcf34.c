@@ -10,6 +10,6 @@ int cwcf34Sentence1()
 
 int cwcf34Sentence2()
 {
-  printf("\nBeezlebub feinted. Because the stove was on.\n");
+  printf("\nBeezlebub feinted. Because he actually enjoyed the random spacing and because the stove was on.\n");
   return 1;
 }
