@@ -55,7 +55,7 @@ cleanwin:
 	
 
 
-story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o djs6g7.o
+story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -170,5 +170,10 @@ mbs9b7.o: sentences/mbs9b7.c
 ajsvt7.o: sentences/ajsvt7.c
 	$(CC) -c $<
 
-djs6g7.o: sentences/djs6g7.c
+# no .c file
+# djs6g7.o: sentences/djs6g7.c
+#	$(CC) -c $<
+
+dmlcn6.o: sentences/dmlcn6.c
 	$(CC) -c $<
+

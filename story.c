@@ -44,6 +44,8 @@ int main( void )
 
 	cwm262Sentence1();
 	printf("\n\n");
+
+	dmlcn6Sentence1();
 	
 	ajsvt7Sentence1();
 	printf("\n\n");
@@ -117,6 +119,8 @@ int main( void )
 
 	jrf5x8Sentence2();
 	printf("\n");
+
+	dmlcn6Sentence2();
 
 	njmnbbSentence2();
 	printf("\n\n");
@@ -208,11 +212,11 @@ int main( void )
 	//kjbr3dSentence2();
 	//printf("\n\n");
 
-	djs6g7Sentence1();
-	printf("\n\n");
+	//djs6g7Sentence1();
+	//printf("\n\n");
 
-	djs6g7Sentence2();
-        printf("\n\n");
+	//djs6g7Sentence2();
+        //printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
