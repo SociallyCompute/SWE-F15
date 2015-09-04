@@ -244,7 +244,12 @@ int main( void )
 	
 	mttfdSentence2();
         printf("\n\n");
+	
+	twn64Sentence1();
+	printf("\n\n");
 
+	twn64Sentence2();
+	printf("\n\n");
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

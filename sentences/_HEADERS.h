@@ -123,3 +123,5 @@ int mttfdSentence2();
 int cmw72dSentence1();
 int cmw72dSentence2();
 
+int twn64Sentence1();
+int twn64Sentence2();
