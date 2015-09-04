@@ -7,4 +7,5 @@ int jrf5x8Sentence1(){
 
 int jrf5x8Sentence2(){
 	printf("drank lots of...eLiXeR\n");
+	return 1;
 }
