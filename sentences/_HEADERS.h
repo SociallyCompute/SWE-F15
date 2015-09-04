@@ -116,3 +116,6 @@ int drrkvfSentence2();
 
 int msr5zbSentence1();
 int msr5zbSentence2();
+
+int mttfdSentence1();
+int mttfdSentence2();

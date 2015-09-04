@@ -233,6 +233,12 @@ int main( void )
 	//djs6g7Sentence2();
         //printf("\n\n");
 
+	mttfdSentence1();
+	printf("\n\n");
+	
+	mttfdSentence2();
+        printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
