@@ -54,6 +54,7 @@ int pswnr9Sentence2();
 
 int mjk8v2Sent1();
 int mjk8v2Sent2();
+int mjk8v2Sent3();
 
 int mjwpq6Sentence1();
 int mjwpq6Sentence2();
@@ -79,10 +80,27 @@ int mcbxx2Sentence2();
 int acbgf8Sentence1();
 int acbgf8Sentence2();
 
-<<<<<<< HEAD
+int mbs9b7Sentence1();
+int mbs9b7Sentence2();
+
+int bsb62Sentence1();
+int bsb62Sentence2();
+int bsb62Sentence3();
+
+int crmmx2Sentence1();
+int crmmx2Sentence2();
+
+//int kjbr3dSentence1();
+//int kjbr3dSentence2();
+int cde9d5Sentence1();
+int cde9d5Sentence2();
+
 int ajmhydSentence1();
 int ajmhydSentence2();
-=======
-int jtr4bdSentence1();
-int jtr4bdSentence2();
->>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+
+//int jtr4bdSentence1();
+//int jtr4bdSentence2();
+//>>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+
+int ajsvt7Sentence1();
+int ajsvt7Sentence2();	

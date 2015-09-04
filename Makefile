@@ -52,12 +52,10 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
+	
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o
-=======
-story: story.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o jtr4bd.o
->>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+
+story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o djs6g7.o
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -105,9 +103,10 @@ tmb4qf.o: sentences/tmb4qf.c
 
 jrf5x8.o: sentences/jrf5x8.c
 	$(CC) -c $<
-	
-frielj.o: sentences/frielj.c
-	$(CC) -c $<
+
+# Duplicate	
+#frielj.o: sentences/frielj.c
+#	$(CC) -c $<
 
 skh6yf.o: sentences/skh6yf.c
 	$(CC) -c $<
@@ -144,13 +143,32 @@ anmg8.o: sentences/anmg8.c
 
 mcbxx2.o: sentences/mcbxx2.c
 	$(CC) -c $<
+	
+bsb62.o: sentences/bsb62.c
+	$(CC) -c $<
+#
+#kjbr3d.o: sentences/kjbr3d.c
+#	$(CC) -c $<
 
-<<<<<<< HEAD
 ajmhyd.o: sentences/ajmhyd.c
-=======
-jtr4bd.o: sentences/jtr4bd.c
->>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+	$(CC) -c $<
+	
+cde9d5.o: sentences/cde9d5.c
+	$(CC) -c $<
+
+#No .c File
+#jtr4bd.o: sentences/jtr4bd.c
+#	$(CC) -c $<
+#	>>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+
+mbs9b7.o: sentences/mbs9b7.c
 	$(CC) -c $<
 
 # acbgf8.o: sentences/acbgf8.c
 # 	$(CC) -c $<
+
+ajsvt7.o: sentences/ajsvt7.c
+	$(CC) -c $<
+
+djs6g7.o: sentences/djs6g7.c
+	$(CC) -c $<
