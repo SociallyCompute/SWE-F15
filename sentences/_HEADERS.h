@@ -116,3 +116,7 @@ int drrkvfSentence2();
 
 int msr5zbSentence1();
 int msr5zbSentence2();
+
+int cmw72dSentence1();
+int cmw72dSentence2();
+
