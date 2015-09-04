@@ -55,7 +55,19 @@ cleanwin:
 	
 
 
+<<<<<<< Updated upstream
 story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o
+=======
+<<<<<<< Updated upstream
+story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o djs6g7.o
+=======
+<<<<<<< HEAD
+story: story.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o drrkvf.o
+=======
+story: story.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o drrkvf.o
+>>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -150,6 +162,7 @@ bsb62.o: sentences/bsb62.c
 #kjbr3d.o: sentences/kjbr3d.c
 #	$(CC) -c $<
 
+<<<<<<< Updated upstream
 ajmhyd.o: sentences/ajmhyd.c
 	$(CC) -c $<
 	
@@ -163,6 +176,17 @@ cde9d5.o: sentences/cde9d5.c
 
 mbs9b7.o: sentences/mbs9b7.c
 	$(CC) -c $<
+=======
+drrkvf.o: sentences/drrkvf.c
+	$(CC) -c $<
+
+<<<<<<< HEAD
+#ajmhyd.o: sentences/ajmhyd.c
+=======
+#jtr4bd.o: sentences/jtr4bd.c
+>>>>>>> e94e119e41f0392cd1014a4fe177680592d50753
+#	$(CC) -c $<
+>>>>>>> Stashed changes
 
 # acbgf8.o: sentences/acbgf8.c
 # 	$(CC) -c $<
