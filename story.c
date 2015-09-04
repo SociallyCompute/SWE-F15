@@ -86,6 +86,9 @@ int main( void )
     
     jmtkt8Sentence2();
     printf("\n");
+
+    drrkvfSentence1();
+    printf("\n\n");
  
     rcn6f4Sentence1();
     printf("\n\n");
@@ -94,6 +97,9 @@ int main( void )
     printf("\n\n");
 
     anmg8Sentence1();
+	printf("\n\n");
+
+	drrkvfSentence2();
 	printf("\n\n");
 
 	cwsvf2Sentence1();
