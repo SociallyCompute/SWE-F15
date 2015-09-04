@@ -8,6 +8,9 @@ int bensSentence_FINAL();
 int jbekccSentence1();
 int jbekccSentence2();
 
+int cwcf34Sentence1();
+int cwcf34Sentence2();
+
 int dhart94Sentence1();
 int dhart94Sentence2();
 

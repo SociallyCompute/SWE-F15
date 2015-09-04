@@ -126,6 +126,9 @@ int main( void )
 	jrf5x8Sentence2();
 	printf("\n");
 
+	cwcf34Sentence1();
+	printf("\n\n");
+
 	dmlcn6Sentence2();
 
 	njmnbbSentence2();
@@ -212,8 +215,12 @@ int main( void )
 	bsb62Sentence3();
 	printf("\n");
 	
+	cwcf34Sentence2();
+	printf("\n\n");
+	
 	cde9d5Sentence2();
 	printf("\n\n");
+
 
 	//kjbr3dSentence2();
 	//printf("\n\n");
