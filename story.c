@@ -14,6 +14,9 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	jbekccSentence1();    
 	printf("\n\n");
+	
+	cjafk2Sentence1();
+	printf("\n\n");
 
 	dhart94Sentence1();    
 	printf("\n\n");      
@@ -208,11 +211,14 @@ int main( void )
 	//kjbr3dSentence2();
 	//printf("\n\n");
 
-	djs6g7Sentence1();
-	printf("\n\n");
+	//djs6g7Sentence1();
+	//printf("\n\n");
 
-	djs6g7Sentence2();
-        printf("\n\n");
+	//djs6g7Sentence2();
+    //    printf("\n\n");
+		
+	cjafk2Sentence2();
+	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
