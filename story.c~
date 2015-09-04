@@ -12,9 +12,6 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
-	cjc455Sentence1();
-	printf("\n\n");
 	jbekccSentence1();    
 	printf("\n\n");
 
@@ -22,9 +19,6 @@ int main( void )
 	printf("\n\n");      
 	
 	jkdt2Sentence1();    
-	printf("\n\n");
-	
-	cjc455Sentence2();
 	printf("\n\n");
 
 	jrf5x8Sentence1();
@@ -138,9 +132,6 @@ int main( void )
 	cwcf34Sentence1();
 	printf("\n\n");
 
-	aaan94Sentence1();
-	printf("\n");
-	
 	dmlcn6Sentence2();
 
 	njmnbbSentence2();
@@ -172,10 +163,7 @@ int main( void )
     
     jmtkt8Sentence1();
     printf("\n");
-	
-	aaan94Sentence2();
-    	printf("\n");
-    
+
 	frieljSentence2();
 	printf("\n\n");
 	
