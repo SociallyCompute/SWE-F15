@@ -125,3 +125,6 @@ int cmw72dSentence2();
 
 int twn64Sentence1();
 int twn64Sentence2();
+
+int aaan94Sentence1();
+int aaan94Sentence2();
