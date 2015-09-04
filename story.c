@@ -68,6 +68,9 @@ int main( void )
 
 	printf("\n\n");
 
+	cmw72dSentence1();
+	printf("\n\n");
+
 	mjwpq6Sentence1();
 
 	printf("\n\n"); 
@@ -205,6 +208,9 @@ int main( void )
 	// printf("\n\n");
 
 	crmmx2Sentence2();
+	printf("\n\n");
+
+	cmw72dSentence2();
 	printf("\n\n");
 
 	ajmhydSentence2();
