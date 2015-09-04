@@ -138,6 +138,9 @@ int main( void )
 	cwcf34Sentence1();
 	printf("\n\n");
 
+	aaan94Sentence1();
+	printf("\n");
+	
 	dmlcn6Sentence2();
 
 	njmnbbSentence2();
@@ -169,7 +172,10 @@ int main( void )
     
     jmtkt8Sentence1();
     printf("\n");
-
+	
+	aaan94Sentence2();
+    	printf("\n");
+    
 	frieljSentence2();
 	printf("\n\n");
 	
