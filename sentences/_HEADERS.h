@@ -107,3 +107,6 @@ int ajsvt7Sentence2();
 
 int dmlcn6Sentence1();
 int dmlcn6Sentence2();	
+
+int drrkvfSentence1();
+int drrkvfSentence2();
