@@ -219,3 +219,6 @@ dbmfzf.o: sentences/dbmfzf.c
 
 bdfd63.o: sentences/bdfd63.c
 	$(CC) -c $<
+
+amcqb4.o: sentences/amcqb4.c
+	$(CC) -c $<
