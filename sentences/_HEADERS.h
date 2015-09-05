@@ -137,3 +137,6 @@ int dbmfzfSentence2();
 
 int bdfd63Sentence1();
 int bdfd63Sentence2();
+
+int amcqb4Sentence1();
+int amcqb4Sentence2();
