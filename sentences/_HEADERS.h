@@ -297,8 +297,21 @@ int bdfd63Sentence2();
 int amcqb4Sentence1();
 int amcqb4Sentence2();
 
+<<<<<<< HEAD
+int cwj3m4Sentence1();
+int cwj3m4Sentence2();
+
+<<<<<<< HEAD
+int dec5x8Sentense1();
+int dec5x8Sentense2();
+
+=======
+int afgd54Sentence1();
+int afgd54Sentence2();
+=======
 int dec5x8Sentence1();
 int dec5x8Sentence2();
+>>>>>>> 8953b2a0f3e960db63ece19e490d329d4dd9c9e3
 
 int jfsvzbsentence1();
 int jfsvzbsentence2();
