@@ -116,6 +116,9 @@ int main( void )
 
     drrkvfSentence1();
     printf("\n\n");
+    
+    kgh458Sentence1();
+    printf("\n\n");
  
 	cwj3m4Sentence1();
 	printf("\n\n");
@@ -131,6 +134,9 @@ int main( void )
 
 	drrkvfSentence2();
 	printf("\n\n");
+    
+    kgh458Sentence1();
+    printf("\n\n");
 
 	cwsvf2Sentence1();
 	printf("\n\n");

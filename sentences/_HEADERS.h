@@ -473,3 +473,6 @@ int mjpyb5sentence2();
 
 int wdmpp5Sentence1();
 int wdmpp5Sentence2();
+
+int kgh458Sentence1();
+int kgh458Sentence2();
