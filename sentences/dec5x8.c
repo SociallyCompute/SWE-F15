@@ -6,7 +6,7 @@ int dec5x8Sentence1()
 	return 1;
 }
 
-int dec5x8Sentense2()
+int dec5x8Sentence2()
 {
 	printf("The sky turned dark, the pirates had arrived.\n");
 	return 1;

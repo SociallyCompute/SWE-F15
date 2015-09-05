@@ -60,7 +60,11 @@ cleanwin:
 story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o drrkvf.o cwcf34.o msr5zb.o mttfd.o cmw72d.o	twn64.o cjc455.o aaan94.o mjb6z9.o cwj3m4.o
 =======
 
+<<<<<<< HEAD
 story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o drrkvf.o cwcf34.o msr5zb.o mttfd.o cmw72d.o	twn64.o cjc455.o aaan94.o mjb6z9.o dbmfzf.o bdfd63.o amcqb4.o afgd54.o dec5x8.o cwj3m4.o
+=======
+story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o drrkvf.o cwcf34.o msr5zb.o mttfd.o cmw72d.o	twn64.o cjc455.o aaan94.o mjb6z9.o dbmfzf.o bdfd63.o amcqb4.o dec5x8.o
+>>>>>>> 8953b2a0f3e960db63ece19e490d329d4dd9c9e3
 
 >>>>>>> bd7b43d511d4cdd4d12a73fbaf6e1110f73cfc1b
 # -----------------------------------------------
@@ -231,12 +235,19 @@ bdfd63.o: sentences/bdfd63.c
 
 amcqb4.o: sentences/amcqb4.c
 	$(CC) -c $<
-<<<<<<< HEAD
 	
+<<<<<<< HEAD
 dec5x8.o: sentenses/dec5x8.c
 =======
 
 afgd54.o: sentences/afgd54.c
 >>>>>>> origin/master
 >>>>>>> bd7b43d511d4cdd4d12a73fbaf6e1110f73cfc1b
+=======
+dec5x8.o: sentences/dec5x8.c
+>>>>>>> 8953b2a0f3e960db63ece19e490d329d4dd9c9e3
 	$(CC) -c $<
+
+# you have no .c files
+# afgd54.o: sentences/afgd54.c
+#	$(CC) -c $<
