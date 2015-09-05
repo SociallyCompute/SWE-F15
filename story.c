@@ -304,7 +304,13 @@ int main( void )
     
     amcqb4Sentence1();
     printf("\n\n");
-    
+	
+	mjpyb5sentence1();
+	printf("\n\n");
+
+	mjpyb5sentence2();    
+	printf("\n\n");
+
     amcqb4Sentence2();
     printf("\n\n");
 	
