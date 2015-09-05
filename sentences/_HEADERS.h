@@ -322,3 +322,6 @@ int jfsvzbsentence2();
 int mjpyb5sentence1();
 int mjpyb5sentence2();
 >>>>>>> dc133316d6050b648797cbe978fca30fb19e557b
+
+int wdmpp5Sentence1();
+int wdmpp5Sentence2();
