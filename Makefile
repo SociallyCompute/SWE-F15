@@ -1,4 +1,3 @@
-
 #################################################
 # Makefile format
 # target: dependencies
@@ -52,12 +51,8 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-	
 
-
-
-
-story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o drrkvf.o cwcf34.o msr5zb.o mttfd.o cmw72d.o	twn64.o cjc455.o aaan94.o mjb6z9.o dbmfzf.o bdfd63.o amcqb4.o afgd54.o dec5x8.o sdw3md.o
+story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o drrkvf.o cwcf34.o msr5zb.o mttfd.o cmw72d.o	twn64.o cjc455.o aaan94.o mjb6z9.o dbmfzf.o bdfd63.o amcqb4.o dec5x8.o mjpyb5.o jfsvzb.o
 
 # -----------------------------------------------
 
@@ -223,11 +218,16 @@ bdfd63.o: sentences/bdfd63.c
 amcqb4.o: sentences/amcqb4.c
 	$(CC) -c $<
 	
-dec5x8.o: sentenses/dec5x8.c
+dec5x8.o: sentences/dec5x8.c
 	$(CC) -c $<
 
-afgd54.o: sentences/afgd54.c
+jfsvzb.o: sentences/jfsvzb.c
 	$(CC) -c $<
 
-sdw3md.o: sentences/sdw3md.c
+# you have no .c files
+# afgd54.o: sentences/afgd54.c
+#	$(CC) -c $<
+
+mjpyb5.o: sentences/mjpyb5.c
 	$(CC) -c $<
+>>>>>>> dc133316d6050b648797cbe978fca30fb19e557b
