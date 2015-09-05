@@ -149,3 +149,6 @@ int dec5x8Sentence2();
 
 //int afgd54Sentence1();
 //int afgd54Sentence2();
+
+int mjpyb5sentence1();
+int mjpyb5sentence2();
