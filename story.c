@@ -89,6 +89,9 @@ int main( void )
 	cmw72dSentence1();
 	printf("\n\n");
 
+	wdmpp5Sentence1();
+	printf( "\n\n" );
+
 	mjwpq6Sentence1();
 
 	printf("\n\n"); 
@@ -158,6 +161,9 @@ int main( void )
 
 	aaan94Sentence1();
 	printf("\n");
+
+	wdmpp5Sentence2();
+	printf( "\n\n" );
 	
 	dmlcn6Sentence2();
 
