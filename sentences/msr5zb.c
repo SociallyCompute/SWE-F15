@@ -8,6 +8,6 @@ int msr5zbSentence1()
 
 int msr5zbSentence2()
 {
-	printf("\nInput This Sentence Once Story goes a bit further...\n");
+	printf("\nTo Soothe Everyone's HeadAches, Dan Avidan Started Playing Sweet Rifts on his Magic Guitar. \n");
 	return 1;
 }
