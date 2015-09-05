@@ -147,6 +147,9 @@ int amcqb4Sentence2();
 int dec5x8Sentence1();
 int dec5x8Sentence2();
 
+int jfsvzbsentence1();
+int jfsvzbsentence2();
+
 //int afgd54Sentence1();
 //int afgd54Sentence2();
 
