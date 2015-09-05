@@ -138,5 +138,11 @@ int dbmfzfSentence2();
 int bdfd63Sentence1();
 int bdfd63Sentence2();
 
+<<<<<<< HEAD
 int amcqb4Sentence1();
 int amcqb4Sentence2();
+=======
+int afgd54Sentence1();
+int afgd54Sentence2();
+
+>>>>>>> afgd54
