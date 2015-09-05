@@ -23,6 +23,9 @@ int main( void )
 	
 	jkdt2Sentence1();    
 	printf("\n\n");
+
+	jfsvzbsentence1();
+        printf("\n\n");
 	
 	cjc455Sentence2();
 	printf("\n\n");
@@ -65,6 +68,9 @@ int main( void )
 	skh6yfSentence1();
 	printf("\n\n");
 	
+	jfsvzbsentence2();
+        printf("\n\n");
+
 	pswnr9Sentence1();
 	printf("\n\n");
 
