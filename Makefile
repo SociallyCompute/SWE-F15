@@ -211,3 +211,6 @@ aaan94.o: sentences/aaan94.c
 	
 mjb6z9.o: sentences/mjb6z9.c
 	$(CC) -c $<
+
+dbmfzf.o: sentences/dbmfzf.c
+	$(CC) -c $<

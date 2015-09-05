@@ -72,6 +72,9 @@ int main( void )
 
 	printf("\n\n");
 
+	dbmfzfSentence1();
+	printf("\n");
+
 	printf("\n\n");
 
 	cmw72dSentence1();
@@ -226,6 +229,9 @@ int main( void )
 	printf("\n\n");
 
 	ajmhydSentence2();
+	printf("\n");
+
+	dbmfzfSentence2();
 	printf("\n");
 	
 	bsb62Sentence2();
