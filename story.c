@@ -99,6 +99,9 @@ int main( void )
     drrkvfSentence1();
     printf("\n\n");
  
+	cwj3m4Sentence1();
+	printf("\n\n");
+
     rcn6f4Sentence1();
     printf("\n\n");
 
@@ -144,6 +147,9 @@ int main( void )
 	dmlcn6Sentence2();
 
 	njmnbbSentence2();
+	printf("\n\n");
+
+	cwj3m4Sentence2();
 	printf("\n\n");
 
 	ampwd6Sentence2();
