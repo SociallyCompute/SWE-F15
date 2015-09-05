@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-//<<<<<<< HEAD
 // DECLARE Function Symbols
 // vvvvvvvvvvvvvvv  BASE of exercise
 int bensSentence1();
