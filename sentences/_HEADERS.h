@@ -128,3 +128,6 @@ int twn64Sentence2();
 
 int aaan94Sentence1();
 int aaan94Sentence2();
+
+int mjb6z9Sentence1();
+int mjb6z9Sentence2();

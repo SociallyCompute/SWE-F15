@@ -262,6 +262,14 @@ int main( void )
 
 	twn64Sentence2();
 	printf("\n\n");
+
+	//mjb6z9Sentence1();
+        //printf("\n\n");
+
+	//mjb6z9Sentence2();
+        //printf("\n\n");
+
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
