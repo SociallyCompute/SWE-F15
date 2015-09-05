@@ -141,5 +141,12 @@ int bdfd63Sentence2();
 int amcqb4Sentence1();
 int amcqb4Sentence2();
 
+<<<<<<< HEAD
 int dec5x8Sentense1();
 int dec5x8Sentense2();
+
+=======
+int afgd54Sentence1();
+int afgd54Sentence2();
+
+>>>>>>> origin/master

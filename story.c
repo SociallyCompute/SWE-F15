@@ -295,7 +295,13 @@ int main( void )
     
     amcqb4Sentence2();
     printf("\n\n");
-		
+	
+	afgd54Sentence1();
+	printf("\n\n");
+
+	afgd54Sentence2();
+	printf("\n\n");
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
