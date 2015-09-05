@@ -222,3 +222,6 @@ bdfd63.o: sentences/bdfd63.c
 
 amcqb4.o: sentences/amcqb4.c
 	$(CC) -c $<
+	
+dec5x8.o: sentenses/dec5x8.c
+	$(CC) -c $<

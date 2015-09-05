@@ -140,3 +140,6 @@ int bdfd63Sentence2();
 
 int amcqb4Sentence1();
 int amcqb4Sentence2();
+
+int dec5x8Sentense1();
+int dec5x8Sentense2();
