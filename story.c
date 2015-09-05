@@ -284,10 +284,10 @@ int main( void )
 	msr5zbSentence2();
         printf("\n\n");
 		
-	dec5x8Sentense1();
+	dec5x8Sentence1();
 		printf("\n\n");
 		
-	dec5x8Sentense2();
+	dec5x8Sentence2();
 		printf("\n\n");
     
     amcqb4Sentence1();
@@ -296,11 +296,11 @@ int main( void )
     amcqb4Sentence2();
     printf("\n\n");
 	
-	afgd54Sentence1();
-	printf("\n\n");
+//	afgd54Sentence1();
+//	printf("\n\n");
 
-	afgd54Sentence2();
-	printf("\n\n");
+//	afgd54Sentence2();
+//	printf("\n\n");
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
