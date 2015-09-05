@@ -296,11 +296,11 @@ int main( void )
 	msr5zbSentence2();
         printf("\n\n");
 		
-	dec5x8Sentence1();
-		printf("\n\n");
+//	dec5x8Sentence1();
+//		printf("\n\n");
 		
-	dec5x8Sentence2();
-		printf("\n\n");
+//	dec5x8Sentence2();
+//		printf("\n\n");
     
     amcqb4Sentence1();
     printf("\n\n");
