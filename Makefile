@@ -52,8 +52,13 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
+<<<<<<< HEAD
+story: story.o bpbkt7.o jbekcc.o dhart94.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o zrhth5.o
+	$(CC) -o story $^
+=======
 story: story.o cde9d5.o bpbkt7.o jbekcc.o dhart94.o cwsvf2.o jkdt2.o mdvy96.o cwm262.o jlhthd.o essxpd.o ampwd6.o tmb4qf.o frielj.o skh6yf.o jrocnc.o pswnr9.o mjwpq6.o ccyd6c.o mjk8v2.o rcn6f4.o jmtkt8.o njmnbb.o jrf5x8.o anmg8.o mcbxx2.o crmmx2.o ajmhyd.o bsb62.o mbs9b7.o ajsvt7.o dmlcn6.o drrkvf.o cwcf34.o msr5zb.o mttfd.o cmw72d.o	twn64.o cjc455.o aaan94.o mjb6z9.o dbmfzf.o bdfd63.o amcqb4.o mjpyb5.o jfsvzb.o cwj3m4.o wdmpp5.o kgh458.o
 
+>>>>>>> master
 
 # -----------------------------------------------
 
@@ -207,6 +212,11 @@ twn64.o: sentences/twn64.c
 aaan94.o: sentences/aaan94.c
 	$(CC) -c $<
 	
+<<<<<<< HEAD
+zrhth5.o: sentences/zrhth5.c
+	$(CC) -c $<
+	
+=======
 mjb6z9.o: sentences/mjb6z9.c
 	$(CC) -c $<
 
@@ -240,3 +250,4 @@ wdmpp5.o: sentences/wdmpp5.c
 
 kgh458.o: sentences/kgh458.c
 	$(CC) -c $<
+>>>>>>> master
