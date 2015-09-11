@@ -224,11 +224,6 @@ int main( void )
 	pswnr9Sentence2();
 	printf("\n\n");
 
-<<<<<<< HEAD
-	zrhth5Sentence2();
-        printf("\n\n");
-
-=======
 	cwsvf2Sentence2();
 	printf("\n\n");
 	
@@ -339,8 +334,10 @@ int main( void )
 
 //	afgd54Sentence2();
 //	printf("\n\n");
+
+	zrhth5Sentence2();
+    printf("\n\n");
 	
->>>>>>> master
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
