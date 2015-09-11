@@ -1,0 +1,643 @@
+commit 5fa8a75d4e4e595e59826713ce7d4c16a478f7e1
+Author: Josh <jrocnc@mail.missouri.edu>
+Date:   Mon Aug 31 19:02:46 2015 -0500
+
+    now tracking my file. commit to push to repo
+
+ sentences/jrocnc.c | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 36e75bc54209e435ed837ef9dade53edfa96a2cc
+Author: Josh <jrocnc@mail.missouri.edu>
+Date:   Mon Aug 31 19:01:31 2015 -0500
+
+    added sentences to the story
+
+ Makefile             | 5 ++++-
+ sentences/_HEADERS.h | 3 +++
+ story.c              | 6 ++++++
+ the_story.txt        | 6 ++++++
+ 4 files changed, 19 insertions(+), 1 deletion(-)
+
+commit 2d92014351006697b044cd4314402a1acd39ca5e
+Author: zrhth5 <zrhth5@mail.missouri.edu>
+Date:   Mon Aug 31 17:17:43 2015 -0500
+
+    zrhth5.o makefile update
+    
+    accidentally undid changes. makefile update to include zrhth5.o
+
+ Makefile      | 2 +-
+ the_story.txt | 4 ++--
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+commit 637dda92d2d701ff2f2ed7228ca75b68f442f789
+Merge: f95bbe9 0e08af2
+Author: Sami Holder <samiholder@gmail.com>
+Date:   Mon Aug 31 17:10:39 2015 -0500
+
+    Merge branch 'samiBranch3'
+
+commit 0e08af2cf6822b80337d07e7b6d42fb7525849ce
+Author: Sami Holder <samiholder@gmail.com>
+Date:   Mon Aug 31 17:10:18 2015 -0500
+
+    updated sentences
+
+ sentences/skh6yf.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit f95bbe9e6c1ec65c599fa792c183ad1429be7e19
+Author: zrhth5 <zrhth5@mail.missouri.edu>
+Date:   Mon Aug 31 17:04:37 2015 -0500
+
+    added zrhth5
+    
+    added zrhth5 changes to repository for assignment 1.
+
+ Makefile             |  3 ++-
+ sentences/_HEADERS.h |  3 +++
+ sentences/zrhth5.c   | 15 +++++++++++++++
+ story.c              |  7 +++++++
+ the_story.txt        | 18 ++++++++++++++++++
+ 5 files changed, 45 insertions(+), 1 deletion(-)
+
+commit 2e672a66c5c9438abe20c8f015d09f199eb98a62
+Merge: 119fbb9 acd480b
+Author: Sami Holder <samiholder@gmail.com>
+Date:   Mon Aug 31 17:00:36 2015 -0500
+
+    Merge branch 'samiBranch2'
+
+commit acd480b71f420eb92f7f7c510f526d2f362bb679
+Author: Sami Holder <samiholder@gmail.com>
+Date:   Mon Aug 31 16:57:48 2015 -0500
+
+    added skh6yf
+
+ sentences/ampwd6.c |  2 +-
+ sentences/skh6yf.c | 11 +++++++++++
+ story.c            |  3 ++-
+ the_story.txt      |  2 --
+ 4 files changed, 14 insertions(+), 4 deletions(-)
+
+commit 119fbb955e08f922aedc2a0d9f4e0dc10bf217d3
+Merge: 82676d1 36f008b
+Author: zrhth5 <zrhth5@mail.missouri.edu>
+Date:   Mon Aug 31 16:55:55 2015 -0500
+
+    Merge remote-tracking branch 'origin/dhart94'
+
+commit 82676d11794dc953df286de541814c8fe2e4e98b
+Author: Sami Holder <samiholder@gmail.com>
+Date:   Mon Aug 31 14:18:01 2015 -0500
+
+    Added skh6yf
+
+ Makefile             | 4 +++-
+ sentences/_HEADERS.h | 3 +++
+ story.c              | 6 +++++-
+ 3 files changed, 11 insertions(+), 2 deletions(-)
+
+commit 85868e8001af833ec685f3aa1cacd6782f36d919
+Merge: b45309b 6b9cba8
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 14:08:18 2015 -0500
+
+    Merge pull request #9 from scottgs/frielj
+    
+    Update _HEADERS.h
+
+commit 6b9cba86f2c584bd534e089f0a83cbe70aa02fe8
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 14:07:27 2015 -0500
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit b45309b1fc04effb67f83366a7e9212607071648
+Merge: 87137f2 2c0a3cd
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 14:06:36 2015 -0500
+
+    Merge pull request #8 from scottgs/frielj
+    
+    Update Makefile
+
+commit 2c0a3cd12f34aa00871d131b94cff9eddab58f73
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 14:05:52 2015 -0500
+
+    Update Makefile
+
+ Makefile | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 87137f2d2c204ca40190867bc1ec7a72bcd330dc
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 14:04:42 2015 -0500
+
+    Update Makefile
+
+ Makefile | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit bcb3f8f4a8383b525be9bd4e7ec9ad3c2ea789ef
+Merge: a2c03b2 cbeb462
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 14:03:34 2015 -0500
+
+    Merge pull request #7 from scottgs/frielj
+    
+    Update story.c
+
+commit cbeb46237ce8da611d8610afeb29c1b5bc7e6e90
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:41:06 2015 -0500
+
+    Update story.c
+
+ story.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit a2c03b22ba090c5259988eb47962e65ceeb300ff
+Merge: 5789cd0 14343eb
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:39:11 2015 -0500
+
+    Merge pull request #6 from scottgs/frielj
+    
+    Frielj
+
+commit 14343ebc9bc054c362d683fe9bd79a5bc56b2050
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:35:18 2015 -0500
+
+    Delete private.xml
+
+ nbproject/private/private.xml | 18 ------------------
+ 1 file changed, 18 deletions(-)
+
+commit 5726f41ebd1394a469bc47aaa44d862dc63bd813
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:35:12 2015 -0500
+
+    Delete launcher.properties
+
+ nbproject/private/launcher.properties | 40 -----------------------------------
+ 1 file changed, 40 deletions(-)
+
+commit 99b7d95be047b7c3e231dee73f0ae005f89a37d6
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:35:03 2015 -0500
+
+    Delete configurations.xml
+
+ nbproject/private/configurations.xml | 69 ------------------------------------
+ 1 file changed, 69 deletions(-)
+
+commit 7ce0ab58d18703fcbb6525bd38cb7405d58ebdcf
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:34:52 2015 -0500
+
+    Delete Default.properties
+
+ nbproject/private/Default.properties | 11 -----------
+ 1 file changed, 11 deletions(-)
+
+commit 01375f79ea0247e6b548ca9c0d00624687be223d
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:34:45 2015 -0500
+
+    Delete Default-build.log
+
+ nbproject/private/Default-build.log | 12 ------------
+ 1 file changed, 12 deletions(-)
+
+commit b7cb47f1c65aaa8b698082daa54ff5716b1a9f20
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:34:35 2015 -0500
+
+    Delete CodeAssistancePathMapper.properties
+
+ nbproject/private/CodeAssistancePathMapper.properties | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 2d1f327a7dfb99db33a106dc92876a9674ca14a1
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:34:24 2015 -0500
+
+    Delete project.xml
+
+ nbproject/project.xml | 26 --------------------------
+ 1 file changed, 26 deletions(-)
+
+commit cbc8111c9159c27e15cd6e0bad0256b054afa484
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:34:15 2015 -0500
+
+    Delete configurations.xml
+
+ nbproject/configurations.xml | 77 --------------------------------------------
+ 1 file changed, 77 deletions(-)
+
+commit 0cc7127b418f3da7e53341d024ffe6e7ec7ebca9
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:33:17 2015 -0500
+
+    Update frielj.c
+
+ sentences/frielj.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit dbaf0e0d7b897e339083ef8736dcab069737fc2e
+Author: frielj <frielj@missouri.edu>
+Date:   Mon Aug 31 13:24:01 2015 -0500
+
+    Added frielj.c with sentences
+
+ nbproject/configurations.xml                       | 77 ++++++++++++++++++++++
+ .../private/CodeAssistancePathMapper.properties    |  1 +
+ nbproject/private/Default-build.log                | 12 ++++
+ nbproject/private/Default.properties               | 11 ++++
+ nbproject/private/configurations.xml               | 69 +++++++++++++++++++
+ nbproject/private/launcher.properties              | 40 +++++++++++
+ nbproject/private/private.xml                      | 18 +++++
+ nbproject/project.xml                              | 26 ++++++++
+ sentences/frielj.c                                 | 11 ++++
+ 9 files changed, 265 insertions(+)
+
+commit 5789cd0f8461323422dad22fb8e9b21f4d4066db
+Author: Tyler Brown <tmb4qf@mail.missouri.edu>
+Date:   Mon Aug 31 11:45:33 2015 -0500
+
+    added tmb4qf.c
+
+ sentences/tmb4qf.c | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit c031dd51a51929ce1c54655ad29b6f1e5bb5aded
+Author: Tyler Brown <tmb4qf@mail.missouri.edu>
+Date:   Mon Aug 31 11:26:35 2015 -0500
+
+    added tmb4qf sentences
+
+ Makefile             |  5 ++++-
+ sentences/_HEADERS.h |  3 +++
+ story.c              |  7 +++++++
+ the_story.txt        | 17 +++++++++++++++++
+ 4 files changed, 31 insertions(+), 1 deletion(-)
+
+commit fc4e7f93681528751146c8c530986245789408fc
+Author: Grant Scott <GrantScott@missouri.edu>
+Date:   Sun Aug 30 23:54:03 2015 -0500
+
+    fixing ampwd6's mistake
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 16d4db3d981d311c776d276925d6a172e6864049
+Author: ampwd6 <ampwd6@mail.missouri.edu>
+Date:   Sun Aug 30 17:34:58 2015 -0500
+
+    added ampwd6
+
+ Makefile | 6 +-----
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+
+commit 41485125c1fb5fbfbc4a8dfc6b23b8c142f96bc0
+Merge: 1069c33 df564ac
+Author: ampwd6 <ampwd6@mail.missouri.edu>
+Date:   Sun Aug 30 17:32:05 2015 -0500
+
+    added ampwd6
+
+commit 1069c33a5690f5215df9b93a6388df9783c0b2e4
+Author: ampwd6 <ampwd6@mail.missouri.edu>
+Date:   Sun Aug 30 17:23:51 2015 -0500
+
+    added ampwd6
+
+ sentences/ampwd6.c | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit df564ac27db3925e4b8fdf6cd36d0b5f5fb5ee7a
+Author: essxpd <essxpd@mail.missouri.edu>
+Date:   Sun Aug 30 16:09:59 2015 -0500
+
+    Added my sentences.
+
+ Makefile             |  6 +++++-
+ sentences/_HEADERS.h |  3 ++-
+ sentences/essxpd.c   | 18 ++++++++++++++++++
+ story.c              | 10 ++++++++--
+ 4 files changed, 33 insertions(+), 4 deletions(-)
+
+commit 7e5fbde76bc2bb6f1665480a07d34a2a230cb11b
+Merge: a306261 adce37d
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sun Aug 30 13:30:50 2015 -0500
+
+    added ampwd6
+
+commit a306261ff0380dce3b639bb49a64f820208424d7
+Merge: 09cf428 a6d69cb
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sun Aug 30 13:29:29 2015 -0500
+
+    added ampwd6
+
+commit adce37d7f6d2ea360d46da6a935efc2e469b79b2
+Merge: de5354a a6d69cb
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sun Aug 30 13:07:18 2015 -0500
+
+    added ampwd6
+
+commit a6d69cbb8440032754e68837134b4355926159b3
+Merge: 2ae0ee7 fa593f6
+Author: jlhthd <jlhthd@mail.missouri.edu>
+Date:   Sun Aug 30 02:41:39 2015 -0500
+
+    Merge branch 'jlhthd'
+
+commit fa593f6f69ac42b9729815e6c8f5095364e877e8
+Author: jlhthd <jlhthd@mail.missouri.edu>
+Date:   Sun Aug 30 02:40:51 2015 -0500
+
+    Fixed sentences and makefile
+
+ Makefile           | 2 +-
+ sentences/jlhthd.c | 4 ++--
+ story.c            | 6 ++++++
+ 3 files changed, 9 insertions(+), 3 deletions(-)
+
+commit 5a41bd1f60f103a68de40686cd43d9102cb45b56
+Author: jlhthd <jlhthd@mail.missouri.edu>
+Date:   Sun Aug 30 02:28:03 2015 -0500
+
+    Added C file and headers
+
+ Makefile             |  3 +++
+ sentences/_HEADERS.h |  3 +++
+ sentences/jlhthd.c   | 14 ++++++++++++++
+ 3 files changed, 20 insertions(+)
+
+commit 2ae0ee7b4a25128886ec797d0370cc365b75a930
+Author: CWM262 <azathoth.hp@gmail.com>
+Date:   Sat Aug 29 19:55:27 2015 -0500
+
+    did stuff too
+
+ Makefile             |   7 +++++--
+ sentences/_HEADERS.h |   3 +++
+ sentences/cwm262.c   |  11 +++++++++++
+ story                | Bin 8984 -> 0 bytes
+ story.c              |  14 ++++++++++----
+ the_story.txt        |   6 ++++++
+ 6 files changed, 35 insertions(+), 6 deletions(-)
+
+commit 09cf42813782e39e6bef81ab58733eff2a9e9517
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 19:11:15 2015 -0500
+
+    ampwd6
+
+ Makefile | 7 -------
+ 1 file changed, 7 deletions(-)
+
+commit 1251674478bc36e2d3eb8e08a1c3af5f7d636aaf
+Merge: ac2dcef e1ed16b
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 19:07:03 2015 -0500
+
+    Merge branch 'master' of https://github.com/scottgs/SWE-F15
+
+commit ac2dcef813d008da5ca4830894df95a3f6723048
+Merge: 72a86e6 e7db2d7
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 19:06:39 2015 -0500
+
+    added ampwd6
+
+commit e1ed16bf226fec2b5906b5a59e6fea9e4b5e2f30
+Author: markvassell <mdvy96@mail.missouri.edu>
+Date:   Sat Aug 29 19:02:27 2015 -0500
+
+    did stuff
+
+ sentences/mdvy96.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 72a86e6760f5ecf01a92a2f6c4cbb030fa88c36d
+Merge: 21ea2f6 de5354a
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:56:24 2015 -0500
+
+    added ampwd6
+
+commit de5354a8eeff82e8220b4f2a54ce0c77d2ade3b8
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:46:07 2015 -0500
+
+    ampwd6
+
+ Makefile      | 7 ++-----
+ story.c       | 8 ++++----
+ the_story.txt | 6 ++++--
+ 3 files changed, 10 insertions(+), 11 deletions(-)
+
+commit bab453632019685498ae3437bf3fd1ad7860c5b5
+Merge: 88cbe54 46fe52b
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:44:11 2015 -0500
+
+    added ampwd6
+
+commit e7db2d7a1e6e0d6745ca348c09a6203623219805
+Author: markvassell <mdvy96@mail.missouri.edu>
+Date:   Sat Aug 29 18:34:14 2015 -0500
+
+    Exercise 1
+    
+    Added Sentences.
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   3 +++
+ sentences/mdvy96.c   |  11 +++++++++++
+ story                | Bin 0 -> 8984 bytes
+ story.c              |  11 ++++++++---
+ the_story.txt        |   6 ++++++
+ 6 files changed, 32 insertions(+), 4 deletions(-)
+
+commit 21ea2f6585a762e9ebf1d7551220d07060eb7a94
+Merge: a86709e 88cbe54
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:33:36 2015 -0500
+
+    Merge branch 'ampwd6'
+
+commit 88cbe54efbff923d79ac5335be326691c0d637af
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:31:11 2015 -0500
+
+    added ampwd6
+
+ the_story.txt | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit a86709e60ca66f8a175967af2f4d7abc6540735d
+Merge: f61c0e0 dbf58d4
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:29:14 2015 -0500
+
+    added ampwd6
+
+commit f61c0e06dca67e85ace4149ce292b2f1482bfc2d
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:19:10 2015 -0500
+
+    added ampwd6
+
+ Makefile             | 5 ++++-
+ sentences/_HEADERS.h | 3 ++-
+ story.c              | 4 ++++
+ the_story.txt        | 6 ------
+ 4 files changed, 10 insertions(+), 8 deletions(-)
+
+commit f57312ddf9a9b06b876d9479f448fcec171c76f6
+Merge: 3529c61 46fe52b
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:10:45 2015 -0500
+
+    Merge branch 'master' of https://github.com/scottgs/SWE-F15
+
+commit 3529c6112cc7c576d3660bd0f64344675064e71a
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 18:09:07 2015 -0500
+
+    added ampwd6
+
+ the_story.txt | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 46fe52be6a7e84771cb97e1123fe2587ca4cc6b5
+Merge: ed58402 06ea56f
+Author: Jayanth <jkdt2@mail.missouri.edu>
+Date:   Sat Aug 29 17:09:11 2015 -0500
+
+    Added file sentences/jkdt2 and fixed conflicts
+
+commit 06ea56f0950c7677413c17b5d572adeb9f137b17
+Author: Jayanth <jkdt2@mail.missouri.edu>
+Date:   Sat Aug 29 17:00:15 2015 -0500
+
+    Changes by JKDT2
+
+ Makefile             | 4 +++-
+ sentences/_HEADERS.h | 3 +++
+ story.c              | 5 +++++
+ the_story.txt        | 4 ++++
+ 4 files changed, 15 insertions(+), 1 deletion(-)
+
+commit dbf58d4ddd67b423602fd45f5f1eb2cb17344263
+Author: alexesmarie27 <ampress727@yahoo.com>
+Date:   Sat Aug 29 14:25:15 2015 -0500
+
+    added ampwd6
+
+ Makefile             | 5 ++++-
+ sentences/_HEADERS.h | 3 +++
+ story.c              | 6 ++++--
+ 3 files changed, 11 insertions(+), 3 deletions(-)
+
+commit 36f008b89e3c9e9519bad07dba90441d6d6600b0
+Merge: ccdd48b ed58402
+Author: Daniel J. Hart <dhart94@gmail.com>
+Date:   Sat Aug 29 13:23:26 2015 -0500
+
+    Merge branch 'master' into dhart94
+
+commit ed5840278ddc2d603a6e5b30920656df470b1b69
+Merge: 5367a85 ccdd48b
+Author: Daniel J. Hart <dhart94@users.noreply.github.com>
+Date:   Sat Aug 29 13:22:23 2015 -0500
+
+    Merge pull request #2 from scottgs/dhart94
+    
+    dhart94 branch changes
+
+commit ccdd48b08b2794f8f2638587cc890a6d10dc234b
+Author: Daniel J. Hart <dhart94@gmail.com>
+Date:   Sat Aug 29 13:20:53 2015 -0500
+
+    dhart94 branch changes
+    
+    added functions and updated makefile.
+
+ Makefile             |  5 ++++-
+ sentences/_HEADERS.h |  3 +++
+ sentences/dhart94.c  | 14 ++++++++++++++
+ story.c              |  6 +++++-
+ the_story.txt        |  5 +++++
+ 5 files changed, 31 insertions(+), 2 deletions(-)
+
+commit 5367a855079da4a3c5c531d3ae271d65ce81a5d3
+Merge: c2f2a6a aeb9302
+Author: jbekcc <jbekcc@mail.missouri.edu>
+Date:   Sat Aug 29 11:25:31 2015 -0500
+
+    Merge pull request #1 from scottgs/jbekcc
+    
+    Added jbekcc
+
+commit aeb9302363bf0f37ad43ecce85b5c4ea96026ab3
+Author: jbekcc <jbekcc@mail.missouri.edu>
+Date:   Sat Aug 29 11:23:12 2015 -0500
+
+    Added jbekcc
+    
+    Added jbekcc.c to sentences
+    modified makefile and story.c
+
+ Makefile             |  5 +++--
+ sentences/_HEADERS.h |  3 ++-
+ sentences/jbekcc.c   | 18 ++++++++++++++++++
+ story.c              |  6 +++---
+ the_story.txt        |  5 +++++
+ 5 files changed, 31 insertions(+), 6 deletions(-)
+
+commit c2f2a6a2677be33241ac52e0311f30f45e27e6b5
+Author: scottgs <scottgs@users.noreply.github.com>
+Date:   Thu Aug 27 13:21:22 2015 -0500
+
+    Update README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 7be397818794425fc3695e22a8c1b1535e09868d
+Author: Grant Scott <grantscott.phd@gmail.com>
+Date:   Thu Aug 27 13:18:25 2015 -0500
+
+    the beginning and the end
+
+ Makefile             | 70 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ sentences/_HEADERS.h | 10 ++++++++
+ sentences/bpbkt7.c   | 18 ++++++++++++++
+ story.c              | 26 +++++++++++++++++++
+ the_story.txt        |  9 +++++++
+ 5 files changed, 133 insertions(+)
+
+commit f1990f60cf5cd2877ce5020ba8c9b3324f084163
+Author: scottgs <scottgs@users.noreply.github.com>
+Date:   Thu Aug 27 12:59:24 2015 -0500
+
+    Initial commit
+
+ .gitignore | 32 ++++++++++++++++++++++++++++++++
+ README.md  |  2 ++
+ 2 files changed, 34 insertions(+)
